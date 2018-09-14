@@ -3,6 +3,8 @@
 #define N 1000
 #define CHUNKSIZE 100
 
+//For directive example
+
 int main(int argc, char **argv){
 	int i, chunk;
 	float a[N], b[N], c[N];
